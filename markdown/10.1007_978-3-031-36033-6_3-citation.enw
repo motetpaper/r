@@ -1,0 +1,23 @@
+%0 Book Section
+%T Beyond MS Word: Alternatives and Developments
+%A Rapp, Christian
+%A Heilmann, Till
+%A Kruse, Otto
+%E Kruse, Otto
+%E Rapp, Christian
+%E Anson, Chris M.
+%E Benetos, Kalliopi
+%E Cotos, Elena
+%E Devitt, Ann
+%E Shibani, Antonette
+%B Digital Writing Technologies in Higher Education : Theory, Research, and Practice
+%D 2023
+%I Springer International Publishing
+%C Cham
+%@ 978-3-031-36033-6
+%F Rapp2023
+%X Microsoft Word, the word processing software developed by Microsoft in 1983, established itself as the market leader in the 1990s and 2000s and remained the gold standard for many years. Despite its obvious benefits, it always faced criticism from various quarters. We address the persistent criticism that MS Word is overloaded with features and distracts from writing rather than facilitating it. Alternatives, mainly distraction-free editors and text editors for use with a markup language, are briefly reviewed and compared to MS Word. A serious challenger emerged in 2006 with Google Docs, a cloud-based writing software that has moved text production into the platform era, enabling files to be shared and creating collaborative writing spaces. Even though Google Docs failed to break the dominance of MS Word, it became the trend-setter in online writing. Microsoft and Apple soon followed by designing complex web environments for institutions and companies rather than individual writers. We give an overview of technologies that have evolved to challenge the supremacy of MS Word or compete for market share. By this, we hope to provide clues as to the future development of word processing.
+%R 10.1007/978-3-031-36033-6_3
+%U https://doi.org/10.1007/978-3-031-36033-6_3
+%P 33-47
+
